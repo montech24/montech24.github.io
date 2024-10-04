@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /referencje/
+Disallow: /admin/
+Disallow: /administration
+Sitemap: http://montech-24.com/sitemap.xml
